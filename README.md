@@ -30,6 +30,5 @@ Tested on AlmaLinux and Fedora (latest Fedora, Almalinux Emerald Puma)
 
 Usage:
 
-Clone the repository, install dependencies, then run main.py
-OpenCAM will take whatever camera shows up first.
+Clone the repository, install dependencies, then run make init followed by make
 
