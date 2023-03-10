@@ -1,0 +1,4 @@
+Oh boy
+
+python3python3-devel gcc python3-numpy python3-opencv (dnf)
+pybluez pillow (pip)
